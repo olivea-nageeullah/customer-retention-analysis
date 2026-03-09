@@ -32,6 +32,16 @@ The dataset contains global retail transactions including:
 - Country
 
 This data allows analysis of customer purchasing behavior, revenue distribution, and geographic demand.
+## Data Preparation
+
+Before analysis, the dataset was cleaned to remove invalid transactions such as returns or negative quantities. The following steps were applied:
+
+- Removed transactions with negative quantities
+- Removed transactions with zero or negative prices
+- Filtered rows with missing customer IDs
+- Calculated order revenue as `quantity * unit_price`
+
+These steps ensure the analysis reflects valid customer purchases and reliable revenue metrics.
 
 ---
 
