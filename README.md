@@ -5,6 +5,10 @@ This project analyzes transactional retail data to understand revenue drivers, c
 
 The analysis simulates a marketplace-style business problem similar to companies like Uber, Airbnb, or e-commerce platforms where understanding customer behavior and revenue concentration is critical for strategic decision making.
 
+## Project Goal
+
+The goal of this project is to simulate the type of marketplace analysis performed by strategy and analytics teams at companies such as Uber, Airbnb, and other platform businesses. The analysis focuses on identifying revenue drivers, customer retention patterns, and market-level performance trends to support data-driven strategic decisions.
+
 ---
 
 ## Business Problem
