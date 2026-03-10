@@ -1,4 +1,5 @@
 # Customer Retention & Revenue Analysis
+SQL + Tableau project analyzing customer retention, revenue concentration, and marketplace performance trends using global retail transaction data.
 
 ## Project Overview
 This project analyzes transactional retail data to understand revenue drivers, customer retention behavior, and marketplace performance. The goal of this analysis is to identify which customers, product categories, and geographic markets contribute most to long-term revenue growth.
