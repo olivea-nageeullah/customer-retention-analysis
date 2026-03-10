@@ -113,7 +113,11 @@ Based on the analysis, the following strategies could improve business performan
 
 ---
 
-## Repository Structure
+## Portfolio
+
+More analytics projects and dashboards can be found at:
+
+[Portfolio Website](https://oliveanageeullah.wixsite.com/olivea-nageeullah)
 
 ---
 
